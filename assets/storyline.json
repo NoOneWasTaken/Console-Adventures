@@ -1,0 +1,30 @@
+{
+  "storyquests": [
+    {
+      "act_one": {
+        "title": "ACT I: The Awakening",
+        "time": "\nYear 3062",
+        "dialogue": "\nOnce upon a time - A boy was born named Al in a small village near the mountains of Aurora.\nAs he was born to the village leader, he was to be the future head of this small village.\n\nBut little did they know, this boy was destined to save the world.",
+        "quest_one": {
+          "title": "15 Years Later.....",
+          "dialogue": "\nAl: Its been 5 years since father and mother's death after that accident. After the accident I was sent to an orphanage and left the orphanage 2 years later.\nNow I farm for living and man I love this job. Magic makes farming pretty easy and I earn a good amount. Oh! Its time to go to the city to sell this time's yield. Now from which route should I go?",
+          "options": [
+            {
+              "title": "Forest of Beasts",
+              "dialogue_1": "Al travels to city quiet frequently and knows Forests of Beasts quite nicely. Many people don't come here because of the scary sounds. Its a great place for members of adventure's guild to train their magic or sword skills.",
+              "dialogue_2": "While travelling through the forest, Al hears some strange sound from a far. Far at a distance there is a dark knight fighting with a small platoon of royal soldiers. Looks like it's not going good for the royal soldiers.",
+              "dialogue_3": "Al, not bothered by the sounds just throws a small pebble towards the sound thinking that its just an animal. Little he knew that the pebble he threwed travelled with the speed of light, and piecered that black knight's armor like butter killing him instantly. All the royal soldiers were puzzled on what the hell just happened.",
+              "dialogue_4": "Al reached the city safely and sold his yield for pretty good price. He was the captain of First Platoon injured returning to the city via it's North Gate. Al stood there to see what's going on but was later asked to disperse. So Al went home."
+            },
+            {
+              "title": "Aurora Mountain Tunnel"
+            },
+            {
+              "title": "Slime Grasslands"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
