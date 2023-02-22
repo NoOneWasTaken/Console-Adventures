@@ -45,6 +45,3 @@ Start playing:
 
 
 **More coming out soon...**
-
-## Gameplay 😎
-https://user-images.githubusercontent.com/85239411/220619945-7cb5dadd-470a-4690-b668-9d0b3f7037ab.mp4
