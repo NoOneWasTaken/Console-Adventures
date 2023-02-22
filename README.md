@@ -1,4 +1,4 @@
-[![MIT License](https://shields.io/badge/license-MIT-%23373737)](https://github.com/NoOneWasTaken/Console-Adventures/blob/main/LICENSE)
+[![MIT License](https://shields.io/badge/license-MIT-%23373737?style=flat&logo=appveyor)](https://github.com/NoOneWasTaken/Console-Adventures/blob/main/LICENSE)
 
 
 # Console Adventures
