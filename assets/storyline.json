@@ -1,30 +1,44 @@
 {
   "storyquests": [
     {
-      "act_one": {
-        "title": "ACT I: The Awakening",
-        "time": "\nYear 3062",
-        "dialogue": "\nOnce upon a time - A boy was born named Al in a small village near the mountains of Aurora.\nAs he was born to the village leader, he was to be the future head of this small village.\n\nBut little did they know, this boy was destined to save the world.",
-        "quest_one": {
-          "title": "15 Years Later.....",
-          "dialogue": "\nAl: Its been 5 years since father and mother's death after that accident. After the accident I was sent to an orphanage and left the orphanage 2 years later.\nNow I farm for living and man I love this job. Magic makes farming pretty easy and I earn a good amount. Oh! Its time to go to the city to sell this time's yield. Now from which route should I go?",
-          "options": [
+      "title": "ACT I: The Awakening",
+      "time": "\nYear 3062",
+      "dialogue": "\nOnce upon a time - A boy was born named Al in a small village near the mountains of Aurora.\nAs he was born to the village leader, he was to be the future head of this small village.\n\nBut little did they know, this boy was destined to save the world.",
+      "quests": [
+        {
+          "title": "\n#The Farming Operation",
+          "time": "\nYear 3077",
+          "dialogueFirst": "\nIt's been 13 years since Al's parents died in an accident.Al was sent of to an orphanage but ran at the age of 11.\n\nAl wanted to continue his dad's farm and sure he did. He made the land more fertile by using various techniques he\nlearnt from a traveler from the far away country of Nilgarf.\n\nHe has been growing potatoes, raddishes, onions, and tomatoes. And pretty sure this season the potatoes,\nthe staple diet of this country harvest.",
+          "dialogueSecond": "\nAl sets of to the capital via the Tunnels of Aurora crossing the mountain. During his travel, he heard a weird sound\nwhile crossing the forest.\n\nBut not bothered of the sound, he threw a stone at the general direction of the sound thinking it's just some animal.\nFew hours later he reaches the Capital.\n\n",
+          "dialogueThird": "Where should Al sell his yeild first?",
+          "actions": [
             {
-              "title": "Forest of Beasts",
-              "dialogue_1": "Al travels to city quiet frequently and knows Forests of Beasts quite nicely. Many people don't come here because of the scary sounds. Its a great place for members of adventure's guild to train their magic or sword skills.",
-              "dialogue_2": "While travelling through the forest, Al hears some strange sound from a far. Far at a distance there is a dark knight fighting with a small platoon of royal soldiers. Looks like it's not going good for the royal soldiers.",
-              "dialogue_3": "Al, not bothered by the sounds just throws a small pebble towards the sound thinking that its just an animal. Little he knew that the pebble he threwed travelled with the speed of light, and piecered that black knight's armor like butter killing him instantly. All the royal soldiers were puzzled on what the hell just happened.",
-              "dialogue_4": "Al reached the city safely and sold his yield for pretty good price. He was the captain of First Platoon injured returning to the city via it's North Gate. Al stood there to see what's going on but was later asked to disperse. So Al went home."
+              "title": "His frield's shop",
+              "dialogue": "Al goes to his friend Zeus's shop that sells vegetables and spices.\nHe is ready to buy those potatoes for 200 silver.",
+              "task": "\nHelp Al to sell the potatoes by typing these words:",
+              "complete": "Great you did it! Zeus and Al have decided to have lunch and catch up with each other in the Grand Capital Square.\nYou Spend hours talking and now its 6 Pm so Al should return home after today's work.\n"
             },
             {
-              "title": "Aurora Mountain Tunnel"
+              "title": "Royal Kitchen",
+              "dialogue": "Al recently have been getting orders from the Royal Kitchen for his vegetables.\n\nHis farming techniques have impressed the Royal Cooks who consider Al's vegetables to be Top Notch vegetables!\n\nThe Royal Kitchen wants his onions and tomatoes in next harvest and is willing to give 650 Silver in advance for\nthose vegetables.",
+              "task": "\nHelp Al to sell the potatoes by typing these words:",
+              "complete": "Great! Al has earned a lot today so he is visiting Capital's War Museum.\n\nThe museum was huge and you never noticed when time flied.\n\nIts 6 Pm so Al should return home after today's work.\n\n"
+
             },
             {
-              "title": "Slime Grasslands"
+              "title": "The Local Diner",
+              "dialogue": "The local diner is a pretty famous place in the capital. The lunch and dinner rush here is crazy.\n\nBecause of this the diner's owner always relies on Al to provide fresh vegetables to the diner so that the business\nstays booming.\n\nThis time the diner is giving 100 Silver extra.",
+              "task": "\nHelp Al to sell the potatoes by typing these words:",
+              "complete": "Wonderful negotiating skills. Al is satisfied with today's earning and after all that negotiating/\n\nAl wanders around the capital trying the street food at different places.\n\nTime flies and Al never realized it got this late.\nIts 6 Pm so Al should return home after today's work.\n"
+            }
+          ],
+          "ending": [
+            {
+              "title": "\nWhile goind home, he heard a rumor that around 2 Pm, A small dragon was encountered by the royal knights who tried to\nkill him but couldn't.\n\nBut suddenly something traveling as fast as light killed the dragon. People think it's some hero hidden in the dark.\nAl thinks that to but little he knew, the rock he threw before that day was the rock that killed the dragon."
             }
           ]
         }
-      }
+      ]
     }
   ]
 }
