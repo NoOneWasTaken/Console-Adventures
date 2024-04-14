@@ -34,7 +34,7 @@ Install dependencies:
 Start playing:
 
 ```bash
-  npm run start
+  npm run play
 ```
 
 
